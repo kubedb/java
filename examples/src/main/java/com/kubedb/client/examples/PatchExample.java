@@ -22,7 +22,8 @@ import java.util.ArrayList;
  *   <li>Patches Redis redis-quickstart with <b>spec.doNotPause</b> value as false.
  * </ul>
  *
- * <p>Easiest way to run this: mvn exec:java -Dexec.mainClass="PatchExample"
+ * <p>Easiest way to run this: mvn exec:java
+ * -Dexec.mainClass="com.kubedb.client.examples.PatchExample"
  *
  * <p>From inside $REPO_DIR/examples
  */

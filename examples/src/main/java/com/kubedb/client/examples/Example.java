@@ -12,7 +12,7 @@ import java.io.IOException;
 /**
  * A simple example of how to use the Java API
  *
- * <p>Easiest way to run this: mvn exec:java -Dexec.mainClass="Example"
+ * <p>Easiest way to run this: mvn exec:java -Dexec.mainClass="com.kubedb.client.examples.Example"
  *
  * <p>From inside $REPO_DIR/examples
  */

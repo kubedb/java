@@ -8,6 +8,6 @@ mvn install
 
 cd ${REPO_ROOT}/examples
 mvn package
-mvn exec:java -Dexec.mainClass="Example"
+mvn exec:java -Dexec.mainClass="com.kubedb.client.examples.Example"
 ```
 
