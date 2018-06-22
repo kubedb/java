@@ -2,20 +2,20 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.kubedb</groupId>
     <artifactId>client-java</artifactId>
-    <version>1.0</version>
+    <version>0.2.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>client-java</name>
     <url>https://github.com/kubedb-client/java</url>
     <parent>
         <groupId>com.kubedb</groupId>
         <artifactId>client-java-parent</artifactId>
-        <version>1.0</version>
+        <version>0.2.0-SNAPSHOT</version>
     </parent>
     <dependencies>
         <dependency>
             <groupId>com.kubedb</groupId>
             <artifactId>client-java-api</artifactId>
-            <version>1.0</version>
+            <version>0.2.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>io.kubernetes</groupId>
