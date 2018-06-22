@@ -23,5 +23,5 @@
 hs_err_pid*
 
 .idea/
-util/target/
-examples/target/
+**/target/
+**.versionsBackup
