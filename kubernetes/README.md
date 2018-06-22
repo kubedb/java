@@ -28,7 +28,7 @@ Add this dependency to your project's POM:
 <dependency>
     <groupId>com.kubedb</groupId>
     <artifactId>client-java</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -38,7 +38,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "com.kubedb:client-java:0.1.0"
+compile "com.kubedb:client-java:1.0.0"
 ```
 
 ### Others
@@ -49,7 +49,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/client-java-0.1.0.jar
+* target/client-java-1.0.0.jar
 * target/lib/*.jar
 
 ## Getting Started

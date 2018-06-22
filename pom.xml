@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>client-java-parent</artifactId>
   <groupId>com.kubedb</groupId>
-  <version>0.2.0-SNAPSHOT</version>
+  <version>2.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Voyager Client API</name>
   <url>https://github.com/kubedb-client/java</url>

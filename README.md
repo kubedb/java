@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/kubedb-client/java.svg?branch=master)](https://travis-ci.org/kubedb-client/java)
 [![Client Capabilities](https://img.shields.io/badge/Kubernetes%20client-Silver-blue.svg?style=flat&colorB=C0C0C0&colorA=306CE8)](http://bit.ly/kubernetes-client-capabilities-badge)
-[![Client Support Level](https://img.shields.io/badge/kubernetes%20client-beta-green.svg?style=flat&colorA=306CE8)](http://bit.ly/kubernetes-client-support-badge)
+[![Maven Central](https://img.shields.io/maven-central/v/com.kubedb/client-java-examples.svg?label=Maven%20Central)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.kubedb%22%20a%3A%22client-java-examples%22)
 
 Official Java client for the [KubeDB by AppsCode](https://kubedb.com/) - Production-grade databases on Kubernetes.
 
@@ -26,7 +26,7 @@ Add this dependency to your project's POM:
 <dependency>
     <groupId>com.kubedb</groupId>
     <artifactId>client-java</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -34,7 +34,7 @@ Add this dependency to your project's POM:
 ### Gradle users
 
 ```groovy
-compile 'com.kubedb:client-java:0.1.0'
+compile 'com.kubedb:client-java:1.0.0'
 ```
 
 ### Others
@@ -131,7 +131,7 @@ All APIs and Models' documentation can be found at the [Generated client's READM
 
 |       | Kubernetes 1.4 | Kubernetes 1.5 | Kubernetes 1.6 | Kubernetes 1.7 | Kubernetes 1.8 | Kubernetes 1.9 |
 |-------|----------------|----------------|----------------|----------------|----------------|----------------|
-| 0.1.0 | +              | +              | +              | +              | ✓              | -              |
+| 1.0.0 | +              | +              | +              | +              | ✓              | -              |
 
 Key:
 
